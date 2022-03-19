@@ -1,0 +1,78 @@
+[
+      {
+            "category_id":1,
+            "category_name": "Flutter Videos",
+            "category_image":"https://logowik.com/content/uploads/images/flutter5786.jpg",
+            "videos":[
+                  {
+                        "video_id":1,
+                        "video_url": "https://youtu.be/lytQi-slT5Y",
+                        "video_title":"ScaffoldMessenger (Widget of the Week)",
+                        "video_duration":"1:56"
+                  },
+                  {
+                        "video_id":1,
+                        "video_url": "https://youtu.be/f9XQD5mf6FY",
+                        "video_title":"get_it (Package of the Week)",
+                        "video_duration":"1:20"
+                  }
+            ]
+      },
+      {
+            "category_id":2,
+            "category_name": "Javascript Videos",
+            "category_image":"https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
+            "videos":[
+                  {
+                        "video_id":1,
+                        "video_url": "https://youtu.be/c-I5S_zTwAc",
+                        "video_title":"Learn JAVASCRIPT in just 5 MINUTES (2020)",
+                        "video_duration":"5:14"
+                  },
+                  {
+                        "video_id":2,
+                        "video_url": "https://youtu.be/upDLs1sn7g4",
+                        "video_title":"What is Javascript",
+                        "video_duration":"5:11"
+                  }
+            ]
+      },
+      {
+            "category_id":3,
+            "category_name": "Python Videos",
+            "category_image":"https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png",
+            "videos":[
+                  {
+                        "video_id":1,
+                        "video_url": "https://youtu.be/Ej_02ICOIgs",
+                        "video_title":"Object Oriented Programming with Python",
+                        "video_duration":"2:12:34"
+                  },
+                  {
+                        "video_id":2,
+                        "video_url": "https://youtu.be/q2SGW2VgwAM",
+                        "video_title":"Python Object Oriented Programming in 10 minutes 🐍",
+                        "video_duration":"10:03"
+                  }
+            ]
+      },
+      {
+            "category_id":4,
+            "category_name": "Swift Videos",
+            "category_image":"https://developer.apple.com/swift/images/swift-og.png",
+            "videos":[
+                  {
+                        "video_id":1,
+                        "video_url": "https://youtu.be/HXoVSbwWUIk",
+                        "video_title":"SwiftUI Basics Tutorial",
+                        "video_duration":"1:19:30"
+                  },
+                  {
+                        "video_id":2,
+                        "video_url": "https://youtu.be/F2ojC6TNwws",
+                        "video_title":"2021 SwiftUI Tutorial for Beginners (3.5 hour Masterclass)",
+                        "video_duration":"3:20:06"
+                  }
+            ]
+      }
+]
